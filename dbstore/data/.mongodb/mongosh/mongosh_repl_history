@@ -1,2 +1,0 @@
-db.rawdata.insertOne({dummy:"Hello"})
-show collections;
