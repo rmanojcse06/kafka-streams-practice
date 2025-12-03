@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://inventorydba:password@mongo-net:27017/rawsrcdb?authSource=admin
